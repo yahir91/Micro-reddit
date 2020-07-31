@@ -52,7 +52,5 @@ Style/HashTransformValues:
   Enabled: false
 Style/MixinUsage:
   Enabled: false
-Style/MixinUsage:
-  Enabled: false
 Style/ClassAndModuleChildren:
   Enabled: false  
